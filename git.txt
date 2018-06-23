@@ -1,1 +1,1 @@
-github.com/mattpodl/jaz7
+github.com/mattpodl/jaz7.0
